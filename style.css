@@ -1,0 +1,66 @@
+body{
+    background-color: #1e293b;
+    height: 100%;
+}
+
+.back1{
+    background-color: #0f172a;
+    height: 500px;
+} 
+
+h1 {
+    text-align: center;
+    color: azure;
+    font-family: "DM Sans";
+    position: relative;
+}
+
+.box1{
+    position:absolute;
+    top: 5%;
+    left: 49.798%;
+}
+
+.box2{
+    position:absolute;
+    top: 5%;
+    left: 69.735%;
+}
+
+.box3{
+    position:absolute;
+    top: 32.5%;
+    left: 12.82%;
+}
+
+.box4{
+    position:absolute;
+    top: 32.5%;
+    left: 38.4%;
+}
+
+.box5{
+    position:absolute;
+    top: 32.5%;
+    left: 69.735%;
+} 
+
+.I1{
+    max-width: 100%;
+    height: auto;
+}
+
+.I2{
+    max-width: 100%;
+    height: auto;
+}
+
+.I3{
+    max-width: 100%;
+    height: auto;
+}
+
+.I4{
+    max-width: 100%;
+    height: auto;
+}
