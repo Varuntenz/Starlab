@@ -5,62 +5,150 @@ body{
 
 .back1{
     background-color: #0f172a;
-    height: 500px;
+    width: 100vw;
+    height: 80vh;
+    position: relative;
 } 
 
 h1 {
     text-align: center;
     color: azure;
-    font-family: "DM Sans";
-    position: relative;
+    font-family: DM Sans";
 }
 
 .box1{
-    position:absolute;
-    top: 5%;
-    left: 49.798%;
+    position: absolute;
+    top: 8vh;
+    left: 8vw;
+    background-color: #212529;
+    width: 45vw;
+    height: 26.811vh;
+    margin: 0;
+    width: 100%;
+    height: 300px;
+    background-image: url('https://starwalk.space/gallery/images/what-is-space/1360x765.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-.box2{
-    position:absolute;
-    top: 5%;
-    left: 69.735%;
+.box2 {
+    position: absolute;
+    top: 8vh;
+    left: 70vw;
+    background-color: #6c757d;
+    padding: 20px;
+    width: 100%;
+    height: 300px;
+    background-image: url('https://www.polytechnique-insights.com/wp-content/uploads/2022/11/adobestock_139734558-scaled.jpeg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .box3{
-    position:absolute;
-    top: 32.5%;
-    left: 12.82%;
+    position: absolute;
+    top: 45vh;
+    left: 8vw;
+    background-color: #6c757d;
+    padding: 20px;
+    width: 100%;
+    height: 300px;
+    background-image: url('https://images.yourstory.com/cs/2/4d03ae105be411ebb93d1523d01d233d/AMESFeature-1662115640590.png?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .box4{
-    position:absolute;
-    top: 32.5%;
-    left: 38.4%;
+    position: absolute;
+    top: 45vh;
+    left: 40vw;
+    background-color: #6c757d;
+    padding: 20px;
+    width: 100%;
+    height: 300px;
+    background-image: url('https://static2.tripoto.com/media/filter/nl/img/271714/TripDocument/1623924044_astronomical.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .box5{
     position:absolute;
-    top: 32.5%;
-    left: 69.735%;
+    top: 45vh;
+    left: 70vw;
+    background-color: #6c757d;
+    padding: 20px;
+    width: 100%;
+    height: 300px;
+    width: 100%;
+    height: 300px;
+    background-image: url('https://scontent-bom2-3.xx.fbcdn.net/v/t39.30808-6/486227387_1061165846044084_8701157425117669685_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=90FZj3M6C4sQ7kNvwHMPxPV&_nc_oc=AdkgX-AXgA6ZRai3yCPJer_tl1vC0RCIwDkDbInNrwdUpCo6mjZ6d57Y9dRDCehyg28&_nc_zt=23&_nc_ht=scontent-bom2-3.xx&_nc_gid=aRHDWF8Z5BQQ0Nt9x3jLjg&oh=00_AfF2-p6aKWx-U9p96UkcK25O7BbQ8CCaXcyA887vsYKkMQ&oe=680BD955');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
 } 
 
-.I1{
-    max-width: 100%;
-    height: auto;
+h2{
+    text-align: center;
+    margin: 0;
+    background-color: #b7cfe3;
 }
+
+.box1{
+    width: 57vw;
+    height: 35vh;
+    margin: 0;
+}
+
+.box2{
+    width: 19.6vw;
+    height: 30vh;
+}
+
+.box3{
+    width: 20vw;
+    height: 26.811vh;
+    margin: 0;
+}
+
+.box4{
+    width: 22.5vw;
+    height: 26.811vh;
+    margin: 0;
+}
+
+.box5{
+    width: 19.6vw;
+    height: 26.811vh;
+    margin: 0;
+}
+/* .I1{
+    height: 100px;
+} 
 
 .I2{
-    max-width: 100%;
-    height: auto;
-}
+    height: 100px;
+} 
+
 
 .I3{
-    max-width: 100%;
-    height: auto;
+    height:100px
 }
 
 .I4{
-    max-width: 100%;
-    height: auto;
+    height: 100px;
+}  */
+
+.foot{
+    background-color:#0f172ab6 ;
+    color: #6c757d;
+    position:relative;
+    top: 500px;
+    padding-left: 20px;
+    padding: 2px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif,sans-serief;
+    font-size: medium;
 }
